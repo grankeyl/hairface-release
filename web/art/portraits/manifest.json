@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "assets": [
+    {
+      "id": "bratishkin",
+      "source": "/art/post-transplant/heads-enhanced/bratishkin.png",
+      "sourceBytes": 1771282,
+      "asset": "/art/portraits/bratishkin.35d60cf9e51a.webp",
+      "bytes": 150790,
+      "width": 690,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "danila",
+      "source": "/art/post-transplant/heads-enhanced/danila.png",
+      "sourceBytes": 1788319,
+      "asset": "/art/portraits/danila.7018b6e34d32.webp",
+      "bytes": 165458,
+      "width": 727,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "sasavot",
+      "source": "/art/post-transplant/heads-enhanced/sasavot.png",
+      "sourceBytes": 1478875,
+      "asset": "/art/portraits/sasavot.e1a60a1b5fe8.webp",
+      "bytes": 166924,
+      "width": 960,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "steel",
+      "source": "/art/post-transplant/heads-enhanced/steel.png",
+      "sourceBytes": 2069527,
+      "asset": "/art/portraits/steel.a9bf4d29c1b4.webp",
+      "bytes": 213492,
+      "width": 676,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "stintik",
+      "source": "/art/post-transplant/heads-enhanced/stintik.png",
+      "sourceBytes": 2314299,
+      "asset": "/art/portraits/stintik.7ed13ded0994.webp",
+      "bytes": 238586,
+      "width": 718,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "strogo",
+      "source": "/art/post-transplant/heads-enhanced/strogo.png",
+      "sourceBytes": 1454131,
+      "asset": "/art/portraits/strogo.3a0fd8ef55ed.webp",
+      "bytes": 144732,
+      "width": 960,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "toxis",
+      "source": "/art/post-transplant/heads-enhanced/toxis.png",
+      "sourceBytes": 1837201,
+      "asset": "/art/portraits/toxis.27f7393d3933.webp",
+      "bytes": 145692,
+      "width": 611,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    },
+    {
+      "id": "zubarev",
+      "source": "/art/post-transplant/heads-enhanced/zubarev.png",
+      "sourceBytes": 2100269,
+      "asset": "/art/portraits/zubarev.11dbf7bf5121.webp",
+      "bytes": 199432,
+      "width": 672,
+      "height": 960,
+      "processing": "Lanczos resize to maximum 960 px; WebP quality 94; original alpha retained; no generative editing"
+    }
+  ],
+  "originalBytes": 14813903,
+  "optimizedBytes": 1425106
+}
