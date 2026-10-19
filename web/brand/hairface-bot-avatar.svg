@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title description">
+  <title id="title">Hairface</title>
+  <desc id="description">A warm cream head and amber hairline framed by scan corners on a graphite background.</desc>
+  <rect width="1024" height="1024" fill="#181a1b"/>
+  <g fill="none" stroke="#ffc34d" stroke-width="44" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M326 218h-94v94M698 218h94v94M232 712v94h94M792 712v94h-94"/>
+  </g>
+  <path d="M358 458v107c0 106 67 178 154 178s154-72 154-178V458" fill="none" stroke="#fff2d7" stroke-width="48" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M334 464c-1-115 58-191 178-191s179 76 178 191c-34-30-62-41-90-34-31 8-57-9-88-38-31 29-57 46-88 38-28-7-56 4-90 34Z" fill="#ffc34d"/>
+  <path d="M328 552h368" fill="none" stroke="#7de0b4" stroke-width="32" stroke-linecap="round"/>
+</svg>
