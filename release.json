@@ -1,6 +1,7 @@
 {
-  "source_commit": "2de5025e8032d21d37afe505704cde5a606516bc",
+  "source_commit": "f6ff8efdbfcae86acbfa945f55e36e910f6dda8e",
   "platform": "linux/amd64",
   "runtime": "Go + static React",
+  "binary_sha256": "80e60fc2ebdea4525eacd40980a34e13f87c3d240dfb8e59fee646d960bbb814",
   "contains_secrets": false
 }
